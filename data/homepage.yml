@@ -46,18 +46,15 @@ education:
   enable: true
   title: Education
   item:
-  - title: Marters in UX Design
+  - title: Master Expert Digital
     year: "2006"
-    academy: Masassusets Institute of Technology
-  - title: Honours in Fine Arts
+    academy: Rouen
+  - title: Licence de communication
     year: "2004"
-    academy: Harvard University
-  - title: Higher Secondary Certificat
+    academy: Rouen
+  - title: DUT Techniques de Commercialisation
     year: "2000"
-    academy: Cardiff School
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
+    academy: Beauvais
 service:
   enable: true
   title: Services
