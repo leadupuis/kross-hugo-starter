@@ -17,19 +17,19 @@ sections:
   templates:
   - post
 - type: directory
-  path: content/about
-  label: About
+  path: content/anotresujet
+  label: A notre sujet
   create: none
   match: "*"
 - type: directory
-  path: data
-  label: Data
+  path: donnees
+  label: Données
   create: documents
   match: "*"
   new_doc_ext: yml
 - type: directory
-  path: content/contact
-  label: Contact
+  path: content/contacts
+  label: Contacts
   create: none
   match: "*"
 - type: document
