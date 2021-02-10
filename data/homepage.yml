@@ -12,19 +12,19 @@ about:
     URL: ensavoirplus
 skill:
   enable: true
-  title: Skills
+  title: Compétences
   item:
-  - title: Web Design
-    progress: 90%
-    color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
-    color: "#9473e6"
-  - title: After Effects
+  - title: Connaissances des besoins clients
     progress: 80%
-    color: "#bdecf6"
-  - title: Web App
+    color: "#fdb150"
+  - title: Connaissance des partenaires
+    progress: 75%
+    color: "#9473e8"
+  - title: TECHNIQUES WEB
     progress: 70%
+    color: "#bdecf2"
+  - title: Techniques digitales
+    progress: 75%
     color: "#ffbcaa"
 experience:
   enable: true
