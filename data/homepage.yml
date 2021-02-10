@@ -63,7 +63,7 @@ service:
     icon: ti-palette
     content: L’UI Design, ou User Interface Design, est une des raisons du succès
       de nombreux services et produits en ligne
-    highlighted: false
+    highlighted: true
   - title: UX Design
     icon: ti-vector
     content: L’UX Design (User eXperience Design) veut tout simplement dire le design
