@@ -3,11 +3,13 @@ banner:
   title: Master <br> Expert Marketing Digital
 about:
   enable: true
-  content: ''
+  content: |-
+    L'Expert(e) digital(e) a la charge de concevoir un projet lié à un produit ou un service, analyser et traiter les informations et données nécessaires à l'élaboration du projet.
+    Il ou elle doit être capable de mesurer les enjeux et risques inhérents à l'activité de l'entreprise, il ou elle doit suivre les comptes et créer des tableaux de bords pour le suivi , maitriser les investissements et opter pour la ou les solutions de financement de l'entreprise. Faire du reporting auprès des partenaires financiers ou des associés, négocier et de communiquer avec les différents acteurs de l'entreprise.
   button:
     enable: true
-    label: know more
-    URL: about
+    label: En savoir plus
+    URL: ensavoirplus
 skill:
   enable: true
   title: Skills
