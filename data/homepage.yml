@@ -28,20 +28,20 @@ skill:
     color: "#ffbcaa"
 experience:
   enable: true
-  title: Experience
+  title: Expériences
   item:
   - logo: images/experience/icon-1.png
-    title: Junior UX Designer
-    company: WEBEX
-    duration: Jan 2007 - Feb 2009
+    title: UX DESIGNER
+    company: BEXWE
+    duration: Janvier 2007 | Février 2009
   - logo: images/experience/icon-2.png
-    title: UX & UI Designer
-    company: AUGMEDIX
-    duration: Mar 2009 - Aug 2014
+    title: UI DESIGNER
+    company: DIXMAU
+    duration: Mars 2009 | Août 2014
   - logo: images/experience/icon-1.png
-    title: Senior UI Designer
-    company: THEMEFISHER
-    duration: Sep 2014 - Present
+    title: SENIOR DESIGNER
+    company: FISHER
+    duration: Septembre 2014 | Aujourd'hui
 education:
   enable: true
   title: Education
