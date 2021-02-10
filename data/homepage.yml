@@ -134,7 +134,7 @@ clients_logo_slider:
     URL: http://examplesite.com
   - logo: images/clients-logo/client-logo-5.png
     URL: "#"
-  title: Site internet digital
+  title: Site Internet Digital
 blog:
   enable: true
   title: Blogs
